@@ -1,2 +1,3 @@
 Red planet.
 It has water.
+And a robot.
